@@ -1,0 +1,4 @@
+home
+hostel
+king
+minister
