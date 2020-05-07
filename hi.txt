@@ -1,0 +1,14 @@
+print("hello")
+print("hi")
+namasthe
+vyshu
+
+talla
+71
+20
+1999
+
+parrot
+peacock
+like
+do
